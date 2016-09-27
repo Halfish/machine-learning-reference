@@ -2,7 +2,7 @@
 
 ## 机器学习
 
-### Books
+### 书籍
 - [PRML, Pattern Recognition and Machine Learning, Bishop 2016](https://www.microsoft.com/en-us/research/people/cmbishop/)
   - 经典书籍，不多说
   
@@ -15,28 +15,42 @@
 - [机器学习，周志华 2016](http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm)
   - 西瓜书是国内著名的机器学习学者，南京大学周志华老师的新作
   - 很全，但是不够详细，难度中等
-  
+
+### 公开课
+- [CS229 Machine Learning Autumn 2016](http://cs229.stanford.edu/)
+  - 机器学习课程，讲义很经典
+  - 也可以参考 Andrew Ng 早期的[视频](http://open.163.com/special/opencourse/machinelearning.html)，在网易公开课可以找到
+
 
 ## 概率图模型（PGM, Probabilistic Graphical Models）
 
-### Books
+### 书籍
 - [Probabilistic Graphical Models: Principles and Techniques](http://pgm.stanford.edu/) 
   - 作者 Daphne Koller and Nir Friedman, MIT Press (2009)
   - 概率图模型经典书籍
 
-### open classes
+### 公开课
 - [Probabilistic Graphical Models Spring 2013](http://cs.nyu.edu/~dsontag/courses/pgm13/)
     - 非常好的公开课，**PPT 很不错**，参考了 Koller 的那本书
 
 
-
 ## 深度学习（Deep Learning）
 
-### Books
+### 书籍
 - [Deep Learning Book](http://www.deeplearningbook.org/)
   - GoodFellow, Bengio 合著的书，深入浅出
 
-### videos
+### 视频
 - [Deep Learning Summer School, Montreal 2016](http://videolectures.net/deeplearning2016_montreal/)
   - 暑假讲座，授课目标为研究生学生，工业界工程师，研究人员
   - 不用fq，很流程，有 PPT
+  
+### 公开课
+- [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+  - 深度学习入门必学，讲了很多卷积神经网络的知识
+  - Fei-Fei Li && Andrej Karpathy 在斯坦福的课程
+  
+- [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
+  - 自然语言处理和深度学习结合
+  
+ 
