@@ -15,7 +15,7 @@
 - [机器学习，周志华 2016](http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm)
   - 西瓜书是国内著名的机器学习学者，南京大学周志华老师的新作
   - 很全，但是不够详细，难度中等
-
+  
 ### 公开课
 - [CS229 Machine Learning Autumn 2016](http://cs229.stanford.edu/)
   - 机器学习课程，讲义很经典
@@ -39,6 +39,10 @@
 ### 书籍
 - [Deep Learning Book](http://www.deeplearningbook.org/)
   - GoodFellow, Bengio 合著的书，深入浅出
+  
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+  - 这本书讲的很基础，大致过一遍就好了
+  - [神经网络与深度学习](https://www.gitbook.com/book/tigerneil/neural-networks-and-deep-learning-zh/details)
 
 ### 视频
 - [Deep Learning Summer School, Montreal 2016](http://videolectures.net/deeplearning2016_montreal/)
