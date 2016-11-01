@@ -50,7 +50,7 @@
 
 ### 书籍
 - [Probabilistic Graphical Models: Principles and Techniques](http://pgm.stanford.edu/) 
-  - 作者 **Daphne Koller** and Nir Friedman, MIT Press (2009)
+  - 作者 **Daphne Koller** and Nir Friedman, MIT Press (2009)
   - 概率图模型经典书籍
 
 ### 公开课
