@@ -22,18 +22,6 @@
   - 也可以参考 Andrew Ng 早期的[视频](http://open.163.com/special/opencourse/machinelearning.html)，在网易公开课可以找到
 
 
-## 概率图模型（PGM, Probabilistic Graphical Models）
-
-### 书籍
-- [Probabilistic Graphical Models: Principles and Techniques](http://pgm.stanford.edu/) 
-  - 作者 Daphne Koller and Nir Friedman, MIT Press (2009)
-  - 概率图模型经典书籍
-
-### 公开课
-- [Probabilistic Graphical Models Spring 2013](http://cs.nyu.edu/~dsontag/courses/pgm13/)
-    - 非常好的公开课，**PPT 很不错**，参考了 Koller 的那本书
-
-
 ## 深度学习（Deep Learning）
 
 ### 书籍
@@ -57,4 +45,21 @@
 - [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
   - 自然语言处理和深度学习结合
   
- 
+
+## 概率图模型（PGM, Probabilistic Graphical Models）
+
+### 书籍
+- [Probabilistic Graphical Models: Principles and Techniques](http://pgm.stanford.edu/) 
+  - 作者 Daphne Koller and Nir Friedman, MIT Press (2009)
+  - 概率图模型经典书籍
+  - Coursera 上也有 Koller 开设的相应的公开课，分成了三节课来讲，见 [Probabilistic Graphical Models](https://www.coursera.org/learn/probabilistic-graphical-models)
+
+### 公开课
+- [Probabilistic Graphical Models](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
+  - Eric Xing, Carnegie Mellon University
+  - 知乎上推荐的，有视频
+  
+- [Probabilistic Graphical Models Spring 2013](http://cs.nyu.edu/~dsontag/courses/pgm13/)
+    - 非常好的公开课，**PPT 很不错**，参考了 Koller 的那本书
+
+
