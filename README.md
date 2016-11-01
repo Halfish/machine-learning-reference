@@ -50,16 +50,17 @@
 
 ### 书籍
 - [Probabilistic Graphical Models: Principles and Techniques](http://pgm.stanford.edu/) 
-  - 作者 Daphne Koller and Nir Friedman, MIT Press (2009)
+  - 作者 **Daphne Koller** and Nir Friedman, MIT Press (2009)
   - 概率图模型经典书籍
-  - Coursera 上也有 Koller 开设的相应的公开课，分成了三节课来讲，见 [Probabilistic Graphical Models](https://www.coursera.org/learn/probabilistic-graphical-models)
 
 ### 公开课
+- [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models)
+  - Koller 大神在 Coursera 开设的公开课
+  - 分成了三个子课程，Representation, Inference and Learning
+
 - [Probabilistic Graphical Models](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
   - Eric Xing, Carnegie Mellon University
-  - 知乎上推荐的，有视频
+  - 知乎上推荐的，有视频
   
 - [Probabilistic Graphical Models Spring 2013](http://cs.nyu.edu/~dsontag/courses/pgm13/)
-    - 非常好的公开课，**PPT 很不错**，参考了 Koller 的那本书
-
-
+  - 非常好的公开课，**PPT 很不错**，参考了 Koller 的那本书
