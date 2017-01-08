@@ -27,7 +27,8 @@
 ### 书籍
 - [Deep Learning Book](http://www.deeplearningbook.org/)
   - GoodFellow, Bengio 合著的书，深入浅出
-  
+  - 已有中文版，[exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese)
+
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
   - 这本书讲的很基础，大致过一遍就好了
   - [神经网络与深度学习](https://www.gitbook.com/book/tigerneil/neural-networks-and-deep-learning-zh/details)
