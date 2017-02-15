@@ -42,7 +42,9 @@
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
   - 深度学习入门必学，讲了很多卷积神经网络的知识
   - Fei-Fei Li && Andrej Karpathy 在斯坦福的课程
-  
+  - 智能单元的[中文翻译](https://zhuanlan.zhihu.com/p/21930884?refer=intelligentunit)
+  - 网易云课堂的[中文课程视频](http://study.163.com/course/introduction/1003223001.htm#/courseDetail)
+
 - [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
   - 自然语言处理和深度学习结合
   
