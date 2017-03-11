@@ -10,11 +10,17 @@
 
 ### 较新的论文
 
-- [What Value Do Explicit High Level Concepts Have in Vision to Language Problems?](https://arxiv.org/abs/1506.01144)
+- [Multimodal Convolutional Neural Networks for Matching Image and Sentence, 2015.04](https://arxiv.org/abs/1504.06063)
+  - m-CNN，华为诺亚方舟实验室的论文，不多的 CNN 架构
+
+- [What Value Do Explicit High Level Concepts Have in Vision to Language Problems?, 2015.06](https://arxiv.org/abs/1506.01144)
   - 发现用更抽象的特征会明显提高效果
 
-- [Multimodal Pivot for Image Caption Translation， 16.01](https://arxiv.org/abs/1601.03916)
+- [Multimodal Pivot for Image Caption Translation， 2016.01](https://arxiv.org/abs/1601.03916)
   - 多语言和 ranking 的思想做 Image Caption 
+
+- [Instance-aware Image and Sentence Matching with Selective Multimodal LSTM](https://arxiv.og/pdf/1611.05588)
+  - 即 sm-LSTM 模型，用了复杂的 attention model，新文章的参考文献应该会很有价值
 
 - [Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning, 2016.12](https://arxiv.org/abs/1612.01887)
   - 文本和图片都有 Attention，模型自动动态调整是从哪一个里学习
@@ -44,6 +50,9 @@
 
 - [Deep Visual-Semantic Alignments for Generating Image Descriptions, 2014.12, Andrej Karpathy, Li Fei-Fei](https://arxiv.org/abs/1412.2306)
   - 这个大家都知道了，就是注明的 NeuralTalk
+
+- [Deep Fragment Embeddings for Bidirectional Image Sentence Mapping](https://arxiv.org/abs/1406.5679)
+  - 仍然是 Andrej Karpathy 和 Li Fei-Fei 的论文
 
 - [Show, Attend and Tell: Neural Image Caption, Generation with Visual Attention, Kelvin Xu, 2015.02](https://arxiv.org/abs/1502.03044)
   - 这里把 attention 从机器翻译中运用到 Image Caption 任务
