@@ -4,7 +4,9 @@
 
 - [智能单元：看图说话的AI小朋友——图像标注趣谈（上）](https://zhuanlan.zhihu.com/p/22408033)
 - [智能单元：看图说话的AI小朋友——图像标注趣谈（下）](https://zhuanlan.zhihu.com/p/22520434)
-- [Image Caption 任务综述 | PaperWeekly](http://mp.weixin.qq.com/s?src=3&timestamp=1489138990&ver=1&signature=xSUpxVgIS-RRb0fh0XqX0q*PNbsdKBcgbJv2mguLz0ZoSLmVqVwoVW9OPkLGQ1PWJLdPxCRiZgFCWEkoZBlD5pC**mH7Z4VpF3GvNzpLi1TK221p1Sfd3iHROtqAmwQMRxkMKDCxyotOOXnHPTqKTwc9nkIUQzyyTkzg75jqqzI=) 推荐的 paper 都相对比较新
+  - 讲了很多 Image Caption 基础的知识，必读
+- [Image Caption 任务综述 | PaperWeekly 第二十二期](http://weixin.sogou.com/weixin?type=2&query=Paper+Weekly+Image+Caption)
+  - 推荐的 paper 都相对比较新
 
 ---
 
@@ -22,7 +24,7 @@
   - 2016.01
   - 多语言和 ranking 的思想做 Image Caption 
 
-- [Instance-aware Image and Sentence Matching with Selective Multimodal LSTM](https://arxiv.og/pdf/1611.05588)
+- [Instance-aware Image and Sentence Matching with Selective Multimodal LSTM](https://arxiv.org/abs/1611.05588)
   - 2016.11
   - 即 sm-LSTM 模型，用了复杂的 attention model，新文章的参考文献应该会很有价值
 
