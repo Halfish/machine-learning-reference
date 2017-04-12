@@ -15,6 +15,7 @@
 - [Multimodal Convolutional Neural Networks for Matching Image and Sentence](https://arxiv.org/abs/1504.06063)
   - 2015.04, m-CNN，华为诺亚方舟实验室的论文
   - 不多的 CNN 架构，很有参考价值
+  - [Project Demo](http://mcnn.noahlab.com.hk/project.html)
 
 - [What Value Do Explicit High Level Concepts Have in Vision to Language Problems?](https://arxiv.org/abs/1506.01144)
   - 2015.06
@@ -23,6 +24,9 @@
 - [Multimodal Pivot for Image Caption Translation](https://arxiv.org/abs/1601.03916)
   - 2016.01
   - 多语言和 ranking 的思想做 Image Caption 
+
+- [Measuring and Predicting Tag Importance for Image Retrieval](https://arxiv.org/abs/1602.08680)
+  - 预测 Tag 的重要性
 
 - [Instance-aware Image and Sentence Matching with Selective Multimodal LSTM](https://arxiv.org/abs/1611.05588)
   - 2016.11
@@ -52,20 +56,23 @@
 - [Learning a Recurrent Visual Representation for Image Caption Generation](https://arxiv.org/abs/1411.5654)
   - 2014.11
 
-- [Explain Images with Multimodal Recurrent Neural Networks, 2014.11](https://arxiv.org/abs/1410.1090)
+- [Explain Images with Multimodal Recurrent Neural Networks](https://arxiv.org/abs/1410.1090)
+- [Deep Captioning with Multimodal Recurrent Neural Networks](https://arxiv.org/abs/1412.6632)
   - 2014.11 m-RNN, Baidu Research
   - 百度的论文，挺重要的模型，即 m-RNN，较早，有些设计不太好
 
 - [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555)
-  - 2014.11, Google NIC
+- [Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge](https://arxiv.org/abs/1609.06647)
+  - 2014.11, 2016.09, Google NIC
   - 较上面的 m-RNN 有改进，RNN 换成了 LSTM，更好的 CNN，图像的 feature 只在开始时输入了一次
 
 - [Deep Fragment Embeddings for Bidirectional Image Sentence Mapping](https://arxiv.org/abs/1406.5679)
   - 2014.06, Andrej Karpathy 和 Li Fei-Fei 的论文
+  - [Demo: Grounded Image Sentence Retrieval](http://cs.stanford.edu/people/karpathy/deepimagesent/rankingdemo/)
 
 - [Deep Visual-Semantic Alignments for Generating Image Descriptions](https://arxiv.org/abs/1412.2306)
-  - 2014.12
-  - Andrej Karpathy, Li Fei-Fei, 这个大家都知道了，就是著名的 NeuralTalk
+  - 2014.12, Andrej Karpathy, Li Fei-Fei
+  - 这个大家都知道了，就是著名的 NeuralTalk
 
 - [Show, Attend and Tell: Neural Image Caption, Generation with Visual Attention](https://arxiv.org/abs/1502.03044)
   - 2015.02, Kelvin Xu
