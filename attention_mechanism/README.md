@@ -8,11 +8,15 @@
 
 ## 近期论文
 
+- [Attention Correctness in Neural Image Captioning](https://arxiv.org/abs/1605.09553)
+	- 2016.05
+	- 对 NIC 的 attention 改进
+
 - [Sequence to Sequence Learning as Beam-Search Optimization](https://arxiv.orCg/abs/1606.02960)
 	- 2016.06
 	- ?
 
-- [Neural Machine Translatio with Recurrent Attention Modeling](https://arxiv.org/abs/1607.05108)
+- [Neural Machine Translation with Recurrent Attention Modeling](https://arxiv.org/abs/1607.05108)
 	- 2016.07
 	- 把历史的 attention activation 也考虑进去
 
