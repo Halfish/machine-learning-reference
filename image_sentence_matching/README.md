@@ -1,4 +1,6 @@
-## Image Caption 论文选读
+## Image Sentence Matching 论文选读
+
+由于和 Image Caption 问题类似，很多模型也可以拿来做 matching/retrieval，所以加了很多 Image Captuion 的论文。
 
 ### 中文的综述，博客等
 
