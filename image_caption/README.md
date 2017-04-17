@@ -36,9 +36,14 @@
 	- 2016.12
 	- 文本和图片都有 Attention，模型自动动态调整是从哪一个里学习
 
+- [An Empirical Study of Language CNN for Image Captioning](https://arxiv.org/abs/1612.07086)
+	- 2016.12
+	- 认为 RNN 没有提取更抽象语义的能力，在 decode 句子的时候，结合 language CNN 和 RNN 
+
 - [MAT: A Multimodal Attentive Translator for Image Captioning](https://arxiv.org/abs/1702.05658)
 	- 2017.02
-	- 先在图片上做 object detection，然后在上面做 attention，生成对应的 description
+	- 和 show, attend and tell 有点类似，不过是先在图片上做 object detection，然后在上面做 attention，生成对应的 description
+	- 以前的做法，都是在 feature map 上面做 attention，但是这篇论文是在检测到的物体上，由roi pooling feature和评分得到的特征上做的 attention
 
 ---
 
@@ -63,7 +68,7 @@
 - [Explain Images with Multimodal Recurrent Neural Networks](https://arxiv.org/abs/1410.1090)
 - [Deep Captioning with Multimodal Recurrent Neural Networks](https://arxiv.org/abs/1412.6632)
 	- 2014.11 m-RNN, Baidu Research
-	- 百度的论文，挺重要的模型，即 m-RNN，较早，有些设计不太好
+	- 百度的论文，挺重要的模型，即 m-RNN，用了 perplexity 做 loss
 
 - [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555)
 - [Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge](https://arxiv.org/abs/1609.06647)
