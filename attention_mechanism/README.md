@@ -24,6 +24,9 @@
 	- 2016.10
 	- 探讨了 attention mechanism 和 memory network 之间的关系
 
+- [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://arxiv.org/abs/1612.03928)
+    - CNN attention
+
 - [A Structured Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130)
 	- 2017.03
 	- 把句子 embedding 成一个矩阵
@@ -48,6 +51,9 @@
 - [Describing Multimedia Content using Attention-based Encoder-Decoder Networks](https://arxiv.org/abs/1507.01053)
 	- 2015.07
 	- 系统总结 CNN + gated RNN + attention 在诸多课题上的应用
+
+- [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025)
+    - 2015.08
 
 - [ABCNN: Attention-Based CNN for Modeling Sentence Pairs](https://arxiv.org/abs/1512.05193)
 	- 2015.12
