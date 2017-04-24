@@ -8,6 +8,10 @@
 
 ## 近期论文
 
+- [A Focused Dynamic Attention Model for Visual Question Answering](https://arxiv.org/abs/1604.01485)
+    - 2016.04
+    - Multimodal Representation Fusion, 动态 attention
+
 - [Attention Correctness in Neural Image Captioning](https://arxiv.org/abs/1605.09553)
 	- 2016.05
 	- 对 NIC 的 attention 改进
@@ -30,6 +34,10 @@
 - [A Structured Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130)
 	- 2017.03
 	- 把句子 embedding 成一个矩阵
+
+- [Visual Question Answering with Question Representation Updata(QRU)](https://papers.nips.cc/paper/6261-visual-question-answering-with-question-representation-update-qru)
+    - 2017 NIPs Proceedings
+    - attention?
 
 ---
 
