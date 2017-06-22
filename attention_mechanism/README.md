@@ -1,6 +1,6 @@
 # Attention Mechanism 论文选读
 
-## 综述 paper
+## 综述博客
 
 - [Embed, encode, attend, predict: The new deep learning formula for state-of-the-art NLP models](https://explosion.ai/blog/deep-learning-formula-nlp)
 
@@ -33,11 +33,16 @@
 
 - [A Structured Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130)
 	- 2017.03
-	- 把句子 embedding 成一个矩阵
+	- 用 LSTM 做 sentence embedding 的时候，把所有的 hidden state 映射成一个 attention 
+    - 权重，乘上后得到句子的 embedding 表示，这里的 attention 是一个矩阵
 
 - [Visual Question Answering with Question Representation Updata(QRU)](https://papers.nips.cc/paper/6261-visual-question-answering-with-question-representation-update-qru)
     - 2017 NIPs Proceedings
     - attention?
+
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+    - 2017.06, Google
+    - 抛弃了 CNN 和 RNN，直接做 attention
 
 ---
 
