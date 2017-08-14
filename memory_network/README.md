@@ -13,8 +13,11 @@
 
 ## 早期论文
 
+- [Memory Networks](https://arxiv.org/abs/1410.3916)
+	- Jason Weston etc, 2014.10
+
 - [End-to-End Memory Networks](https://arxiv.org/abs/1503.08895)
-	- 2015.03
+	- SainBayar Sukhbaatar etc, 2015.03
 
 - [Ask Me Anything: Dynamic Memory Networks for Natural Language Processing](https://arxiv.org/abs/1506.07285)
 	- 2015.06
