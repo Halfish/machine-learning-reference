@@ -4,17 +4,18 @@
 
 ### 书籍
 - [PRML, Pattern Recognition and Machine Learning, Bishop 2016](https://www.microsoft.com/en-us/research/people/cmbishop/)
-  - 经典书籍，不多说
+  - 经典书籍，不多说，不过我读了下面那本 MLaPP 入门的。
   
 - [MLaPP, Machine Learning, A Probabilistic Perspective, Murphy 2012](http://www.cs.ubc.ca/~murphyk/MLbook/)
-  - 很大，很全
+  - 很大，很全，但是比较难读，有机会啃下去最好，收获挺大的。不过很多我都跳读了。
   
 - [统计学习方法，李航 2012](https://book.douban.com/subject/10590856/)
   - 西瓜书出现之前，是中文书里唯一能看的，短小精悍
+  - 比西瓜书讲的深一点，但是内容稍微少一点，也没有系统，只是把很多流行的模型单独列成一章来讲。
   
 - [机器学习，周志华 2016](http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm)
   - 西瓜书是国内著名的机器学习学者，南京大学周志华老师的新作
-  - 很全，但是不够详细，难度中等
+  - 大概读了一半，感觉非常深入浅出，内容也很全，公式推导过程清晰，建议入门必读，后面常翻翻
   
 ### 公开课
 - [CS229 Machine Learning Autumn 2016](http://cs229.stanford.edu/)
@@ -27,6 +28,7 @@
 ### 书籍
 - [Deep Learning Book](http://www.deeplearningbook.org/)
   - GoodFellow, Bengio 合著的书，深入浅出
+  - 看后面几章 Research 感觉挺难懂，Practice 又不如看公开课，所以暂时弃坑
   - 已有中文版，[exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese)
 
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
@@ -40,7 +42,7 @@
   
 ### 公开课
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
-  - 深度学习入门必学，讲了很多卷积神经网络的知识
+  - 深度学习入门必学，讲了很多卷积神经网络的知识，课程作业特别好。
   - Fei-Fei Li && Andrej Karpathy 在斯坦福的课程
   - 智能单元的[中文翻译](https://zhuanlan.zhihu.com/p/21930884?refer=intelligentunit)
   - 网易云课堂的[中文课程视频](http://study.163.com/course/introduction/1003223001.htm#/courseDetail)

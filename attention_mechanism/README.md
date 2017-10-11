@@ -49,7 +49,7 @@
 ## 早期论文
 
 - [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
-	- 2014.09, Bahdanau
+	- 2014.09, Bahdanau，重点文章
 	- 最早把 attention 用到机器翻译中的论文，可以把翻译的英文和法文对其(align)
 	- 参考对应的没有 attention 的模型 [google seq2seq NMT](https://arxiv.org/abs/1409.3215)
 
@@ -66,7 +66,9 @@
 	- 系统总结 CNN + gated RNN + attention 在诸多课题上的应用
 
 - [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025)
-    - 2015.08
+    - 2015.08, [Thang Luong](https://nlp.stanford.edu/~lmthang/), Stanford NLP 小组的工作
+	- Luong 的[博士论文](https://github.com/lmthang/thesis)就是做 NMT，tensorflow 上的 [nmt 教程](https://github.com/tensorflow/nmt)也是他写的。
+	- 和 Bahdanau 不同的是，Attention context 是用 decoder hidden state 算出来的，此外 score function 试了多种方法。总之很推荐读，重要论文！
 
 - [ABCNN: Attention-Based CNN for Modeling Sentence Pairs](https://arxiv.org/abs/1512.05193)
 	- 2015.12
