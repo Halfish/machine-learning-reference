@@ -1,8 +1,8 @@
 # machine-learning-reference
 
-## 机器学习
+## 1. 机器学习
 
-### 书籍
+### 1.1 书籍
 - [PRML, Pattern Recognition and Machine Learning, Bishop 2006](https://www.microsoft.com/en-us/research/people/cmbishop/)
   - 经典书籍，不多说，不过我读了下面那本 MLaPP 入门的。
   
@@ -17,15 +17,21 @@
   - 西瓜书是国内著名的机器学习学者，南京大学周志华老师的新作
   - 大概读了一半，感觉非常深入浅出，内容也很全，公式推导过程清晰，建议入门必读，后面常翻翻
   
-### 公开课
+### 1.2 公开课
 - [CS229 Machine Learning Autumn 2016](http://cs229.stanford.edu/)
   - 机器学习课程，讲义很经典
   - 也可以参考 Andrew Ng 早期的[视频](http://open.163.com/special/opencourse/machinelearning.html)，在网易公开课可以找到
 
+## 2. 自然语言处理（Natural Language Processing）
 
-## 深度学习（Deep Learning）
+### 2.1 书籍
+- [Speech and Language Processing](http://web.stanford.edu/~jurafsky/slp3/)
+  - Dan Jurafsky and James H. Martin 合著，现在有 3rd edition 的草稿
+  - 内容比较丰富，涉及 NLP 的方方面面；新版本主要添加了很多深度学习的东西
 
-### 书籍
+## 3. 深度学习（Deep Learning）
+
+### 3.1 书籍
 - [Deep Learning Book](http://www.deeplearningbook.org/)
   - GoodFellow, Bengio 合著的书，深入浅出
   - 看后面几章 Research 感觉挺难懂，Practice 又不如看公开课，所以暂时弃坑
@@ -39,12 +45,12 @@
   - 和上面的不是同一本书，这个是复旦大学的 [邱锡鹏](http://nlp.fudan.edu.cn/xpqiu/) 老师的书，尚未出版
   - 感觉和 Deep Learning Book 结构挺类似的。
 
-### 视频
+### 3.2 视频
 - [Deep Learning Summer School, Montreal 2016](http://videolectures.net/deeplearning2016_montreal/)
   - 暑假讲座，授课目标为研究生学生，工业界工程师，研究人员
   - 不用fq，很流程，有 PPT
   
-### 公开课
+### 3.3 公开课
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
   - 深度学习入门必学，偏重计算机视觉，课程作业特别好。
   - Fei-Fei Li && Andrej Karpathy 在斯坦福的课程
@@ -56,14 +62,14 @@
   - 主要用 tensorflow 实现代码和作业。网上应该也有很多中文资料。
   
 
-## 概率图模型（PGM, Probabilistic Graphical Models）
+## 4. 概率图模型（PGM, Probabilistic Graphical Models）
 
-### 书籍
+### 4.1 书籍
 - [Probabilistic Graphical Models: Principles and Techniques](http://pgm.stanford.edu/) 
   - 作者 **Daphne Koller** and Nir Friedman, MIT Press (2009)
   - 概率图模型经典书籍
 
-### 公开课
+### 4.2 公开课
 - [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models)
   - Koller 大神在 Coursera 开设的公开课
   - 分成了三个子课程，Representation, Inference and Learning
