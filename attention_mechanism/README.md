@@ -39,10 +39,16 @@
 - [Visual Question Answering with Question Representation Updata(QRU)](https://papers.nips.cc/paper/6261-visual-question-answering-with-question-representation-update-qru)
     - 2017 NIPs Proceedings
     - attention?
+    
+- [Convolutional Sequence to Sequence Learning](https://arxiv.org/abs/1705.03122)
+    - 2017.05, Facebook AI Research, FAIR
+    - 替代 RNN 来做序列的建模，用卷积操作来抽取特征，效果和训练速度优于 RNN 模型
 
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
     - 2017.06, Google
-    - 抛弃了 CNN 和 RNN，直接做 attention
+    - 代码参考官方实现 [tensor2tensor](https://github.com/tensorflow/tensor2tensor)
+    - 抛弃了 CNN 和 RNN，直接做 multi-head attention
+    - Encoder 端是 self attention，即 Q=K=V；Decoder 端是 K=V 用的 Encoder 输出，Q 是解码到当前时刻的向量。
 
 ---
 
