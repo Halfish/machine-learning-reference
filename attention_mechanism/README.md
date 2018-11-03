@@ -47,6 +47,7 @@
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
     - 2017.06, Google
     - 代码参考官方实现 [tensor2tensor](https://github.com/tensorflow/tensor2tensor)
+    - 讲怎么实现 transformer 的好文章，[The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
     - 抛弃了 CNN 和 RNN，直接做 multi-head attention
     - Encoder 端是 self attention，即 Q=K=V；Decoder 端是 K=V 用的 Encoder 输出，Q 是解码到当前时刻的向量。
 
