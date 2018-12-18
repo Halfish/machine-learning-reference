@@ -28,6 +28,10 @@
 - [Speech and Language Processing](http://web.stanford.edu/~jurafsky/slp3/)
   - Dan Jurafsky and James H. Martin 合著，现在有 3rd edition 的草稿
   - 内容比较丰富，涉及 NLP 的方方面面；新版本主要添加了很多深度学习的东西
+  
+- [Deep Learning in Natural Language Processing](https://www.springer.com/gp/book/9789811052088)
+  - Deng, Li, Liu, Yang
+  - 比较新的书，讲了 NLP 和 DL 结合的最新技术。
 
 ## 3. 深度学习（Deep Learning）
 
