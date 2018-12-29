@@ -22,9 +22,15 @@
   - 机器学习课程，讲义很经典
   - 也可以参考 Andrew Ng 早期的[视频](http://open.163.com/special/opencourse/machinelearning.html)，在网易公开课可以找到
 
+---
+
 ## 2. 自然语言处理（Natural Language Processing）
 
 ### 2.1 书籍
+- [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/)
+  - Chris Manning, Hinrich Schütze, Stanford NLP Group
+  - 经典的书，有点老，讲的是 NLP 基础的知识。
+  
 - [Speech and Language Processing](http://web.stanford.edu/~jurafsky/slp3/)
   - Dan Jurafsky and James H. Martin 合著，现在有 3rd edition 的草稿
   - 内容比较丰富，涉及 NLP 的方方面面；新版本主要添加了很多深度学习的东西
@@ -32,6 +38,8 @@
 - [Deep Learning in Natural Language Processing](https://www.springer.com/gp/book/9789811052088)
   - Deng, Li, Liu, Yang
   - 比较新的书，讲了 NLP 和 DL 结合的最新技术。
+
+---
 
 ## 3. 深度学习（Deep Learning）
 
@@ -65,6 +73,7 @@
   - 类似 CS231n，但是偏重自然语言处理和深度学习结合
   - 主要用 tensorflow 实现代码和作业。网上应该也有很多中文资料。
   
+---
 
 ## 4. 概率图模型（PGM, Probabilistic Graphical Models）
 
