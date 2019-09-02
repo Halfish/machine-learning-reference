@@ -31,6 +31,11 @@
   - Chris Manning, Hinrich Schütze, Stanford NLP Group
   - 经典的书，有点老，讲的是 NLP 基础的知识。
   
+- [统计自然语言处理](https://book.douban.com/subject/25746399/)
+  - 宗成庆，清清华学出版社，2008年出版的第二版
+  - 讲中文 NLP 技术比较全面的书籍，兼具广度和深度，非常推荐。
+  - 因为成书较早，没有涉及深度学习的内容。
+  
 - [Speech and Language Processing](http://web.stanford.edu/~jurafsky/slp3/)
   - Dan Jurafsky and James H. Martin 合著，现在有 3rd edition 的草稿
   - 内容比较丰富，涉及 NLP 的方方面面；新版本主要添加了很多深度学习的东西
